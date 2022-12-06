@@ -1,0 +1,5 @@
+﻿  Laba_1.cpp
+C:\StudentProjC++\Laba_1\Laba_1\Laba_1\Laba_1.cpp(10,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\StudentProjC++\Laba_1\Laba_1\Laba_1\Laba_1.cpp(34,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\StudentProjC++\Laba_1\Laba_1\Laba_1\Laba_1.cpp(67,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Laba_1.vcxproj -> C:\StudentProjC++\Laba_1\Laba_1\x64\Debug\Laba_1.exe
